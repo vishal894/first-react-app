@@ -29,7 +29,7 @@ const Avatar = ()=>
 
      ]
      return <div>
-            <h1 className="main tc">Welcome to my new project</h1>
+            <h1 className="main tc">Welcome to my react new application</h1>
             <Avatrlist id={avatarlistarray[0].name}
                         name={avatarlistarray[0].name}
                         work={avatarlistarray[0].work}/>
